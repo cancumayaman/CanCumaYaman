@@ -1,4 +1,4 @@
-## Hi there 👋,I'm Can Cuma
+## Hi 👋,I'm Can Cuma
 
 ### I'm a computer engineer. I am interested in all software topics especially Web Programming.
 
