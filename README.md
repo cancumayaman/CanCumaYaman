@@ -8,4 +8,6 @@
 - 💬 Ask me about C#, .Net Core, Frontend, OOP, SOLID.
 - 📫 How to reach me: cancumayamann@gmail.com
 
+[Linkedln](https://www.linkedin.com/in/cancumayaman/)
+
 
