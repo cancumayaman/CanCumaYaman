@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Web Projects and all software topics.
 - 🌱 I’m currently learning .Net Core.
 
-- 💬 Ask me about C#, .Net Core, Frontend, OOP, SOLID.
+- 💬 Ask me about C#, .Net Core, Frontend, OOP, AOP, SOLID.
 - 📫 How to reach me: cancumayamann@gmail.com
 
 [Linkedln](https://www.linkedin.com/in/cancumayaman/)
