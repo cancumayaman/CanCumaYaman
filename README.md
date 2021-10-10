@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Web Projects and all software topics.
 - 🌱 I’m currently learning .Net.
 
-- 💬 Ask me about C#, .Net, Angular, Frontend, OOP, AOP, SOLID and software architectures.
+- 💬 Ask me about C#, .Net, Angular, Frontend, OOP, AOP, SOLID, SQL, Unit Test and software architectures.
 - 📫 How to reach me: cancumayamann@gmail.com
 
 [Linkedln](https://www.linkedin.com/in/cancumayaman/)
